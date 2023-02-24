@@ -4,5 +4,7 @@
 
 #git komutları
 1. git init
- --1. git add filename
+ ..* git add filename
+ ..* git add . 
+ 
  
